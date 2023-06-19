@@ -1,6 +1,7 @@
 Created an expense manager system using Spring Boot involves creating a backend application that allows users to track and manage their expenses.
 
 Some of the key features are :
+
 1.User Registration and Authentication:
 2.Users can register and create accounts.
 3.User authentication is implemented using Spring Security.
