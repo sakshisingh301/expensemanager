@@ -44,4 +44,4 @@ Some of the key features are :
 
 2.Integration with SMS or email services for reminders and notifications.
 
-Tools used : Spring boot , Java11 ,maven ,Mysql,RestTemplate,Spring Cloud OpenFeign
+**Tools used : Spring boot , Java11 ,maven ,Mysql,RestTemplate,Spring Cloud OpenFeign**
