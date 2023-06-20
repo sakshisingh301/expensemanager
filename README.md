@@ -2,11 +2,13 @@ Created an expense manager system using Spring Boot involves creating a backend 
 
 Some of the key features are :
 
-1.User Registration and Authentication:
+**User Registration and Authentication:**
+
 2.Users can register and create accounts.
+
 3.User authentication is implemented using Spring Security.
 
-Expense Management:
+**Expense Management:**
 
 1.Users can add, edit, and delete their expenses.
 
@@ -14,7 +16,7 @@ Expense Management:
 
 3.Users can provide additional details such as date, amount, payment method, and description for each expense.
 
-Dashboard and Reports:
+**Dashboard and Reports:**
 
 1.Users have access to a personalized dashboard that displays an overview of their expenses, including total spending, spending by category, and spending trends.
 
@@ -22,7 +24,7 @@ Dashboard and Reports:
 
 3.Users can generate customized reports for a specified time period, category, or payment method.
 
-Budgeting and Goal Setting:
+**Budgeting and Goal Setting:**
 
 1.Users can set budget limits for different expense categories.
 
@@ -30,13 +32,13 @@ Budgeting and Goal Setting:
 
 3.Users can set financial goals (e.g., saving targets) and track their progress.
 
-Data Security and Backup:
+**Data Security and Backup:**
 
 1.User data is securely stored in a relational database.
 
 2.Regular backups of the database are performed to ensure data integrity.
 
-Integration with Third-Party APIs:
+**Integration with Third-Party APIs:**
 
 1.Integration with payment gateways for expense reimbursements or automated expense tracking.
 
